@@ -1,0 +1,19 @@
+1. Bank Management System
+
+2. Diary management System
+
+3. Calendar using C
+
+4. Contact Management System
+
+5. Library Management System
+
+6. Snake Game
+
+7. Bus Reservation system
+
+8. Customer Billing system
+
+9. Hospital Management system
+
+10. Cyber management

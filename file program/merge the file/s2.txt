@@ -1,0 +1,19 @@
+11. Cricket score display
+
+12. Employee management system
+
+13. Pacman Game
+
+14. Quiz game
+
+15. Phone-book application
+
+16. Election System
+
+17. Flight ticket booking
+
+18. Tourism Management system
+
+19. Simple Result system
+
+20. Stock Management system
